@@ -1,6 +1,6 @@
 {
-  "version": "1.2.8",
+  "version": "1.2.9",
   "release_date": "2026-08-17",
-  "installer_url": "https://github.com/jonmaxto/hermod-releases/releases/download/v1.2.8/HermodSetup_v1.2.8.exe",
-  "release_notes": "Stale screenshot bug fixed; alarm checker config key corrected."
+  "installer_url": "https://github.com/jonmaxto/hermod-releases/releases/download/v1.2.9/HermodSetup_v1.2.9.exe",
+  "release_notes": "Status panel, auto-update, test message button, stale screenshot fix."
 }
