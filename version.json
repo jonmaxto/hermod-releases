@@ -1,6 +1,6 @@
 {
-  "version": "1.2.9",
-  "release_date": "2026-08-17",
-  "installer_url": "https://github.com/jonmaxto/hermod-releases/releases/download/v1.2.9/HermodSetup_v1.2.9.exe",
-  "release_notes": "Status panel, auto-update, test message button, stale screenshot fix."
+  "version": "1.2.10",
+  "release_date": "2026-08-18",
+  "installer_url": "https://github.com/jonmaxto/hermod-releases/releases/download/v1.2.10/HermodSetup_v1.2.10.exe",
+  "release_notes": "Session path fix for new installs; Chromium auto-install on startup."
 }
