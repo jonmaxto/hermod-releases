@@ -1,6 +1,6 @@
 {
-  "version": "1.2.10",
-  "release_date": "2026-08-18",
-  "installer_url": "https://github.com/jonmaxto/hermod-releases/releases/download/v1.2.10/HermodSetup_v1.2.10.exe",
-  "release_notes": "Session path fix for new installs; Chromium auto-install on startup."
+  "version": "1.2.11",
+  "release_date": "2026-08-28",
+  "installer_url": "https://github.com/jonmaxto/hermod-releases/releases/download/v1.2.11/HermodSetup_v1.2.11.exe",
+  "release_notes": "Pause persistence, defect parser fix, system Chrome for session setup, session path fix, Chromium auto-install, bot token and session setup guides."
 }
