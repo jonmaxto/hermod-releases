@@ -1,6 +1,6 @@
 {
-  "version": "1.2.12",
-  "release_date": "2026-09-02",
-  "installer_url": "https://github.com/jonmaxto/hermod-releases/releases/download/v1.2.12/HermodSetup_v1.2.12.exe",
-  "release_notes": "Queue coordination (one post per slot, Slack DM and tray on skip, T+5 recovery), reports-enabled toggle, pause state UI fix, update banner fix, system Chrome session setup."
+  "version": "1.2.13",
+  "release_date": "2026-09-03",
+  "installer_url": "https://github.com/jonmaxto/hermod-releases/releases/download/v1.2.13/HermodSetup_v1.2.13.exe",
+  "release_notes": "Double-post fix (slot guard), alarm-only machines no longer claim slots, queue logs visible in report.log, display names in queue channel, version shown in Settings header."
 }
