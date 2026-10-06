@@ -1,6 +1,6 @@
 {
-  "version": "1.2.16",
-  "release_date": "2026-09-22",
-  "installer_url": "https://github.com/jonmaxto/hermod-releases/releases/download/v1.2.16/HermodSetup_v1.2.16.exe",
-  "release_notes": "Defects view + real trend chart, coordinator crash fix, MySPD packaging fix, Chart Preview frozen-path fix, relabeled Slack section, new bot icon."
+  "version": "1.2.17",
+  "release_date": "2026-10-06",
+  "installer_url": "https://github.com/jonmaxto/hermod-releases/releases/download/v1.2.17/HermodSetup_v1.2.17.exe",
+  "release_notes": "Fixed Slack token could get silently wiped on save (new-install bug). Deactivated duplicate-posting protection. Removed dead code (old upload cluster, superseded queue coordinator)."
 }
